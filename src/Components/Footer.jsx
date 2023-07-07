@@ -4,5 +4,4 @@ const Footer = () => {
     <div className="footer">Im coming from footer</div>
   )
 }
-
 export default Footer
